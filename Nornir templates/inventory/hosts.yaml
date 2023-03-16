@@ -1,0 +1,8 @@
+client-r1:
+  groups:
+  - router
+  hostname: client-r1
+client-r2:
+  groups:
+  - router
+  hostname: client-r2
