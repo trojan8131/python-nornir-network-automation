@@ -13,7 +13,7 @@ from tabulate import tabulate
 import time
 from nornir.core.filter import F
 
-nr = InitNornir(config_file="/opt/tools/_inventory/config.yaml")
+nr = InitNornir(config_file="config.yaml")
 
 
 def filter_func(host):
